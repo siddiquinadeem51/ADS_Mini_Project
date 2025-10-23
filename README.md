@@ -1,5 +1,7 @@
 House Price Prediction Project
+
 Project Overview
+
 This repository contains code and data for a house price prediction project. The goal is to build a machine learning model to predict residential property prices using structured attributes such as area type, location, size, number of bathrooms, and total square footage.
 
 Files
